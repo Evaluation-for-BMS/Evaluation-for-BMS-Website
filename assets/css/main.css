@@ -3178,7 +3178,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style1-alt {
-			background-color: #dbefe8;
+			background-color: #5a94ae;
 			color: #264f6d;
 		}
 
@@ -3452,7 +3452,7 @@ input, select, textarea {
 
 	#footer > .inner .menu {
 		font-size: 0.8em;
-		color: rgba(38, 79, 109, 0.35);
+		color: rgba(155, 196, 191, 0.75);
 	}
 
 	#header + #wrapper + #footer > .inner {
